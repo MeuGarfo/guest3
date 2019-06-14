@@ -14,12 +14,13 @@ data        hora    tempo   tarefa
 14jun2019   16:09   05m     basic/view com ROOT como prepend
 14jun2019   16:18   05m     basic/model com ROOT como prepend
 14jun2019   16:27   05m     criar o aicouto/auth no github e clonar
-10m     criar o aicouto/auth/signup
-10m     criar o aicouto/auth/signin
-10m     criar o aicouto/auth/logout
+10m     bin/migrate e tables (copiar do guest2)
+10m     criar o aicouto/auth/signup (copiar do guest2)
+10m     criar o aicouto/auth/signin (copiar do guest2)
+10m     criar o aicouto/auth/logout (copiar do guest2)
 10m     criar o aicouto/message e clonar
-10m     criar o aicouto/message/create
-10m     criar o aicouto/message/delete
+10m     criar o aicouto/message/create (copiar do guest2)
+10m     criar o aicouto/message/delete (copiar do guest2)
 05m     calcular o tempo total de desenvolvimento
 
 tempo máximo estimado inicialmente = 1h30m
