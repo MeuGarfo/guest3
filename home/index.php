@@ -1,2 +1,3 @@
 <?php
-controller('home/home');
+//controller('home/home');
+print model('home/test');

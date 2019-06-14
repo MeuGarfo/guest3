@@ -4,6 +4,7 @@ inc([
     'env',
     'error',
     'controller',
+    'model',
     'view'
 ]);
 error(true);

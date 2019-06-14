@@ -3,5 +3,6 @@
     "controller",
     "env",
     "error",
-    "view"
+    "view",
+    "model"
 ]
