@@ -9,7 +9,7 @@ data        hora    tempo   tarefa
 14jun2019   10:13   05m     basic/controller com ROOT como prepend
 14jun2019   10:19   05m     basic/controller com ROOT como prepend
 14jun2019   10:21   05m     home/controller/home
-10m     deixar apenas um basic no root
+14jun2019   15:45   10m     deixar apenas um basic no root
 10m     $_ENV['SITE_CSS']; com o arquivo principal
 10m     $_ENV['SITE_JS']; com o arquivo principal
 10m     basic install view env db
@@ -26,5 +26,5 @@ data        hora    tempo   tarefa
 05m     calcular o tempo total de desenvolvimento
 
 tempo máximo estimado inicialmente = 1h30m
-tempo total gasto = 
-numero total de tarefas = 
+tempo total gasto =
+numero total de tarefas =

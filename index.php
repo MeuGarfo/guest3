@@ -1,6 +1,9 @@
 <?php
-require 'home/basic/basic.php';
+require 'basic/basic.php';
 inc([
-    'env'
+    'env',
+    'error',
+    'controller',
 ]);
+error(true);
 require 'home/index.php';
