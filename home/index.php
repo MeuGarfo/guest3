@@ -5,4 +5,4 @@ inc([
     'error'
 ]);
 error();
-var_dump(controller('home/home'));
+controller('home/home');
