@@ -11,7 +11,7 @@ data        hora    tempo   tarefa
 14jun2019   10:21   05m     home/controller/home
 14jun2019   15:45   10m     deixar apenas um basic no root
 14jun2019   15:59   10m      bs2 em $_ENV['SITE_CSS'];$_ENV['SITE_JS'];
-05m     basic/view com ROOT como prepend
+14jun2019   16:09   05m     basic/view com ROOT como prepend
 05m     basic/model com ROOT como prepend
 05m     basic/helper com ROOT como prepend
 05m     criar o aicouto/auth no github e clonar

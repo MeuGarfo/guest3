@@ -1,3 +1,3 @@
 <?php
-print $_ENV['SITE_NAME'];
+view('home/home');
 ?>

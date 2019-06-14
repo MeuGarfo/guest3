@@ -4,6 +4,7 @@ inc([
     'env',
     'error',
     'controller',
+    'view'
 ]);
 error(true);
 require 'home/index.php';
