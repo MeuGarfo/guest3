@@ -10,4 +10,4 @@ inc([
     'view'
 ]);
 error(true);
-controller('guest3/home');
+controller('home/home');
