@@ -1,6 +1,8 @@
 <?php
-require '../basic/basic.php';
 inc([
-    'env'
+    'controller',
+    'env',
+    'error'
 ]);
-print $_ENV['SITE_NAME'];
+error();
+var_dump(controller('home/controller/home'));
