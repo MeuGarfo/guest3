@@ -13,7 +13,7 @@ data        hora    tempo   tarefa
 14jun2019   15:59   10m      bs2 em $_ENV['SITE_CSS'];$_ENV['SITE_JS'];
 14jun2019   16:09   05m     basic/view com ROOT como prepend
 14jun2019   16:18   05m     basic/model com ROOT como prepend
-05m     criar o aicouto/auth no github e clonar
+14jun2019   16:27   05m     criar o aicouto/auth no github e clonar
 10m     criar o aicouto/auth/signup
 10m     criar o aicouto/auth/signin
 10m     criar o aicouto/auth/logout
