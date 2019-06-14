@@ -6,7 +6,7 @@ data        hora    tempo   tarefa
 14jun2019   09:55   05m     o basic/env pegando o .env um nível acima
 14jun2019   10:01   05m     o basic/env pegando o .env um nível acima
 14jun2019   10:09   05m     home/controller/home
-05m     basic/controller com ROOT como prepend
+14jun2019   10:13   05m     basic/controller com ROOT como prepend
 05m     home/controller/home
 05m     criar o aicouto/auth no github e clonar
 10m     criar o aicouto/auth/signup
