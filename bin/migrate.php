@@ -10,7 +10,11 @@ if(createDB()){
 }
 $db=db();
 echo 'migrando tabelas...'.PHP_EOL;
-if(migrate($db)){
+$repos=[
+    'auth',
+    'home'
+];
+if(migrate($db,$repos)){
     print 'tabelas migradas com sucesso'.PHP_EOL;
 }else{
     print 'erro ao migrar as tabelas';

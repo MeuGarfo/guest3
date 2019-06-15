@@ -16,7 +16,8 @@ data        hora    tempo   tarefa
 14jun2019   16:27   05m     criar o aicouto/auth no github e clonar
 15jun2019   15:34   05m     bin/migrate e tabelas de teste em auth e home
 15jun2019   15:38   10m     concatenar as tabelas e filtar elas
-10m     salvar as tabelas filtradas em ROOT/table
+15jun2019   15:48   10m     concatenar as tabelas e filtar elas
+15jun2019   15:59   05m     concatenar as tabelas e filtar elas
 10m     criar o aicouto/auth/signup (copiar do guest2)
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)

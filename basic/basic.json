@@ -4,5 +4,7 @@
     "env",
     "error",
     "view",
-    "model"
+    "model",
+    "migrate",
+    "db"
 ]
