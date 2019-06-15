@@ -18,6 +18,7 @@ data        hora    tempo   tarefa
 15jun2019   15:38   10m     concatenar as tabelas e filtar elas
 15jun2019   15:48   10m     concatenar as tabelas e filtar elas
 15jun2019   15:59   05m     concatenar as tabelas e filtar elas
+15jun2019   16:05   05m     commit basic/migrate
 10m     criar o aicouto/auth/signup (copiar do guest2)
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)
