@@ -26,6 +26,7 @@ data        hora    tempo   tarefa
 17jun2019   16:12   10m     criar o aicouto/auth/signup (copiar do guest2)
 17jun2019   16:22   10m     criar o aicouto/auth/signup (copiar do guest2)
 17jun2019   16:45   05m     testar o cadastro de usuário
+10m     mover o guest3 para o public.local
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)
 10m     criar o aicouto/message e clonar
