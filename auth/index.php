@@ -10,6 +10,7 @@ inc([
     'controller',
     'method',
     'model',
+    'redirect',
     'segment',
     'view'
 ]);

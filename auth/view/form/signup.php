@@ -9,7 +9,7 @@ if(isset($_GET['erro'])){
     <?php
 }
 ?>
-<form class="" action="signup" method="post" id="signup">
+<form class="" action="<?php print $_ENV['SITE_URL']; ?>auth/signup" method="post" id="signup">
     <fieldset>
         <legend><?php e($title); ?></legend>
         <label for="signupName">Nome</label>

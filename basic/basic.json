@@ -10,5 +10,6 @@
     "segment",
     "method",
     "e",
-    "auth"
+    "auth",
+    "redirect"
 ]
