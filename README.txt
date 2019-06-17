@@ -24,11 +24,13 @@ data        hora    tempo   tarefa
 17jun2019   16:06   05m     enviar o basic/segment para o github
 17jun2019   16:08   05m     criar rota default apontando para o repo/index.php
 17jun2019   16:12   10m     criar o aicouto/auth/signup (copiar do guest2)
+17jun2019   16:22   10m     criar o aicouto/auth/signup (copiar do guest2)
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)
 10m     criar o aicouto/message e clonar
 10m     criar o aicouto/message/create (copiar do guest2)
 10m     criar o aicouto/message/delete (copiar do guest2)
+05m     adicionar o header 404 no view(home/404)
 05m     calcular o tempo total de desenvolvimento
 
 tempo máximo estimado inicialmente = 1h30m
