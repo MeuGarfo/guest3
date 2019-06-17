@@ -22,8 +22,8 @@ data        hora    tempo   tarefa
 17jun2019   15:45   10m     basic/segment com $_ENV['SITE_URL'];
 17jun2019   15:56   10m     basic/segment com $_ENV['SITE_URL'];
 17jun2019   16:06   05m     enviar o basic/segment para o github
-10m     criar rota default apontando para o repo/index.php
-10m     criar o aicouto/auth/signup (copiar do guest2)
+17jun2019   16:08   05m     criar rota default apontando para o repo/index.php
+17jun2019   16:12   10m     criar o aicouto/auth/signup (copiar do guest2)
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)
 10m     criar o aicouto/message e clonar

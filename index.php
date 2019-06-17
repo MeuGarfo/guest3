@@ -6,6 +6,12 @@ inc([
     'segment'
 ]);
 error(true);
-print '<pre>';
-var_dump(segment());
-//require 'home/index.php';
+$controller=segment(1);
+switch ($controller) {
+    case 'auth':
+    require 'auth/index.php';
+    break;
+    default:
+    require 'home/index.php';
+    break;
+}
