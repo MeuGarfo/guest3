@@ -19,6 +19,10 @@ data        hora    tempo   tarefa
 15jun2019   15:48   10m     concatenar as tabelas e filtar elas
 15jun2019   15:59   05m     concatenar as tabelas e filtar elas
 15jun2019   16:05   05m     commit basic/migrate
+17jun2019   15:45   10m     basic/segment com $_ENV['SITE_URL'];
+17jun2019   15:56   10m     basic/segment com $_ENV['SITE_URL'];
+17jun2019   16:06   05m     enviar o basic/segment para o github
+10m     criar rota default apontando para o repo/index.php
 10m     criar o aicouto/auth/signup (copiar do guest2)
 10m     criar o aicouto/auth/signin (copiar do guest2)
 10m     criar o aicouto/auth/logout (copiar do guest2)

@@ -1,7 +1,11 @@
 <?php
 require 'basic/basic.php';
 inc([
-    'error'
+    'env',
+    'error',
+    'segment'
 ]);
 error(true);
-require 'home/index.php';
+print '<pre>';
+var_dump(segment());
+//require 'home/index.php';

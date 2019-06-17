@@ -6,5 +6,6 @@
     "view",
     "model",
     "migrate",
-    "db"
+    "db",
+    "segment"
 ]
