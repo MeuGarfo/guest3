@@ -12,6 +12,6 @@ switch ($controller) {
     require 'auth/index.php';
     break;
     default:
-    require 'home/index.php';
+    require 'mensagem/index.php';
     break;
 }

@@ -14,9 +14,13 @@ inc([
     'segment',
     'view'
 ]);
-$controller='auth/'.segment(2);
+if(segment(2)){
+    $controller='mensagem/'.segment(2);
+}else{
+    $controller='mensagem/home';
+}
 if(controller($controller)){
-
+    controller($controller);
 }else{
     view('home/404');
 }

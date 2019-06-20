@@ -12,7 +12,8 @@ $db=db();
 echo 'migrando tabelas...'.PHP_EOL;
 $repos=[
     'auth',
-    'home'
+    'home',
+    'mensagem'
 ];
 if(migrate($db,$repos)){
     print 'tabelas migradas com sucesso'.PHP_EOL;

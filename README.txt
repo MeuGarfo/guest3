@@ -28,9 +28,10 @@ data        hora    tempo   tarefa
 17jun2019   16:45   05m     testar o cadastro de usuário
 20jun2019   15:31   05m     criar o aicouto/auth/signin (copiar do guest2)
 20jun2019   15:40   05m     criar o aicouto/auth/logout (copiar do guest2)
-10m     criar o aicouto/message e clonar
-10m     criar o aicouto/message/create (copiar do guest2)
-10m     criar o aicouto/message/delete (copiar do guest2)
+20jun2019   15:47   05m     criar o aicouto/mensagem e clonar
+20jun2019   15:48   10m     criar o aicouto/mensagem/create (copiar do guest2)
+20jun2019   15:59   10m     criar o aicouto/mensagem/create (copiar do guest2)
+20jun2019   16:10   05m     criar o aicouto/mensagem/delete (copiar do guest2)
 05m     adicionar o header 404 no view(home/404)
 05m     calcular o tempo total de desenvolvimento
 
