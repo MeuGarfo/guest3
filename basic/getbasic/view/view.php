@@ -3,7 +3,10 @@
 //24 de agosto de 2018
 
 function view($name,$data=null,$print=true){
-    if($name=='404'){
+    $nameArr=explode('/',$name);
+    end($nameArr);
+    $key=key($nameArr);
+    if($name=='404' OR $nameArr[$key]=='404'){
         header('HTTP/1.0 404 Not Found');
     }
     $filename=ROOT.'view/'.$name.'.php';
