@@ -37,5 +37,5 @@ data        hora    tempo   tarefa
 
 tempo máximo estimado inicialmente = 1h30m
 numero inicial de tarefas = ?
-tempo total gasto =
-numero total de tarefas =
+tempo total gasto = 25*5+10*10 = 225m = 3.75h = 3h45m
+numero total de tarefas = 35 tarefas
