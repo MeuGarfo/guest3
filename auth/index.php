@@ -14,14 +14,12 @@ inc([
     'segment',
     'view'
 ]);
-$controller=segment(2);
-switch ($controller) {
-    case 'signup':
-    controller('auth/signup');
-    break;
-    default:
-    view('home/404');
-    break;
+$controller='auth/'.segment(2);
+if(controller($controller)){
+
+}else{
+        view('home/404');
 }
+
 
 ?>
