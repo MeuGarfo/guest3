@@ -33,7 +33,7 @@ data        hora    tempo   tarefa
 20jun2019   15:59   10m     criar o aicouto/mensagem/create (copiar do guest2)
 20jun2019   16:10   05m     criar o aicouto/mensagem/delete (copiar do guest2)
 20jun2019   16:16   05m     adicionar o header 404 no view(home/404)
-05m     calcular o tempo total de desenvolvimento
+20jun2019   16:22   05m     calcular o tempo total de desenvolvimento
 
 tempo máximo estimado inicialmente = 1h30m
 numero inicial de tarefas = ?
