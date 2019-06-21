@@ -11,5 +11,6 @@
     "method",
     "e",
     "auth",
-    "redirect"
+    "redirect",
+    "route"
 ]

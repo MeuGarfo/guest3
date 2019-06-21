@@ -3,18 +3,21 @@ require 'basic/basic.php';
 inc([
     'env',
     'error',
+    'route',
     'segment',
     'view'
 ]);
 error(true);
-$controller=segment(1);
-switch ($controller) {
+$route=segment(1);
+if($route=='/'){
+    $route='mensagem';
+}
+switch ($route) {
     case 'auth':
-    require 'auth/index.php';
+    route($route);
     break;
-    case '/':
     case 'mensagem':
-    require 'mensagem/index.php';
+    route($route);
     break;
     default:
     view('home/404');
