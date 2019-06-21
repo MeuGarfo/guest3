@@ -12,5 +12,6 @@
     "e",
     "auth",
     "redirect",
-    "route"
+    "route",
+    "asset"
 ]

@@ -1,6 +1,7 @@
 <?php
 require 'basic/basic.php';
 inc([
+    'asset',
     'env',
     'error',
     'route',
